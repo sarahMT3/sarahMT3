@@ -5,7 +5,7 @@
 Me chamo Sarah Cristina dos Santos Matos, tenho 24 anos e sou do interior do Mato grosso do Sul.
 Atualmente estou estudando para me tornar Desenvolvedora Fullstack, e aqui no GitHub compartilho tudo que estou aprendendo ao longo da minha jornada no mundo da programação.
 
-Neste espaço você vai encontrar meus projetos, exercícios, testes, e experiências com Python, JavaScript, C#, Bancos de dados, Cybersegurança, automação e muito mais. Estou sempre criando coisas novas para praticar e evoluir — e me divirto bastante no processo! 🚀
+Neste espaço você vai encontrar meus projetos, exercícios, testes, e experiências com Python, JavaScript, C#, Bancos de dados, Cybersegurança, automação e muito mais. Estou sempre criando coisas novas para praticar e evoluir e me divirto bastante no processo! 🚀
 
 ### 💻 Linguagens e Tecnologia
 
