@@ -1,4 +1,4 @@
-# 👩🏽‍💻 Sarah Cristina
+# 👩🏽‍💻 Olá! Eu sou a Sarah Cristina
 
 **`Desenvolvedora Fullstack`**
 
